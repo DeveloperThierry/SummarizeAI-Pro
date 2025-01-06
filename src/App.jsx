@@ -1,9 +1,21 @@
+import React from 'react'
+import Hero from './components/Hero'
+import Demo from './components/Demo'
 import './App.css'
 
-export default function App() {
+const App = () => {
   return (
     <main>
-      React ⚛️ + Vite ⚡ + Replit
+    <div className="main">
+      <div className="gradient"/>
+    </div>  
+      
+    <div className="app">
+      <Hero />
+      <Demo />
+    </div>
     </main>
-  )
-}
+  );
+};
+
+export default App;
