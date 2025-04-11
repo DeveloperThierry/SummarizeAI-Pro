@@ -62,3 +62,5 @@ A big thank you to **OpenAI** for providing the **GPT model** and to **JavScript
 ---
 **Happy Summarizing! 📚✨**
 
+![Preview](Summarize%20AI%20Pro.png)
+
